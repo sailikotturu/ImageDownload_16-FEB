@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ImageDownload_16-FEB</string>
+    <string name="picasso_url">http://www.mahram.ca/wp-content/uploads/2015/03/girl-before-a-mirror_1038x576.jpg</string>
+    <string name="glider_url">https://lh3.googleusercontent.com/MSfNBStW8HsKEntMerfgzf5COKuzYZMjiR21rvSQqVPkgk8z_uQArTD9iV0og1QkXfM=w300</string>
+    <string name="async_url">https://image.slidesharecdn.com/asynctaskthreadspoolsandexecutorsohmy-160729190724/95/async-task-threads-pools-and-executors-oh-my-1-638.jpg?cb=1469819379</string>
+</resources>
